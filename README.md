@@ -54,6 +54,6 @@ The results of the project demonstrate:
 
 ## Outputs
 
-![Image 1](D:\Development\Machine learning\projects\CycleGan\Unpaired-Medical-Image-Translation-and-Brain-Tumor-Detection\Outputs\sample-1.jpg)
+![Image 1](Outputs/sample-1.jpg)
 
-![Image 2](D:\Development\Machine learning\projects\CycleGan\Unpaired-Medical-Image-Translation-and-Brain-Tumor-Detection\Outputs\sample-2.jpg)
+![Image 2](Outputs/sample-2.jpg)

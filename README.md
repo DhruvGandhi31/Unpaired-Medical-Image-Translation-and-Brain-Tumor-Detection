@@ -57,3 +57,5 @@ The results of the project demonstrate:
 ![Image 1](Outputs/sample-1.jpg)
 
 ![Image 2](Outputs/sample-2.jpg)
+
+For detailed explanation about the project, refer this <a href="[/pdfs/ProjMarr_slides.pdf](https://github.com/DhruvGandhi31/Unpaired-Medical-Image-Translation-and-Brain-Tumor-Detection/blob/main/IIITV_medical_image_translation.pdf)https://github.com/DhruvGandhi31/Unpaired-Medical-Image-Translation-and-Brain-Tumor-Detection/blob/main/IIITV_medical_image_translation.pdf">report</a>.

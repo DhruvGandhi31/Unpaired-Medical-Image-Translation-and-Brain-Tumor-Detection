@@ -57,3 +57,5 @@ The results of the project demonstrate:
 ![Image 1](Outputs/sample-1.jpg)
 
 ![Image 2](Outputs/sample-2.jpg)
+
+For detailed explanation about the project, refer this <a href="https://drive.google.com/file/d/1CBdmjwFiErOoD0QMEAYwL4hOol4Cx9BH/view?usp=sharing">report</a>.
